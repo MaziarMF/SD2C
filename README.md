@@ -1,4 +1,4 @@
-**Deep k-Means: Jointly Clustering with k-Means and Learning Representations**
+**Seed-guided Deep Document Clustering**
 ======
 
 ## __Introduction__
