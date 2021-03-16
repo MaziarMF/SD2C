@@ -8,7 +8,7 @@ This repository provides the source code for the models and baselines described 
 **Abstract:** Different users may be interested in different clustering views underlying a given collection (e.g., topic and writing style in documents). Enabling them to provide constraints reflecting their needs can then help obtain tailored clustering results. For document clustering, constraints can be provided in the form of seed words, each cluster being characterized by a small set of words. This seed-guided constrained document clustering problem was recently addressed through topic modeling approaches. In this paper, we jointly learn deep representations and bias the clustering results through the seed words, leading to a Seed-guided Deep Document Clustering approach. Its effectiveness is demonstrated on five public datasets.
 
 If you found this implementation useful, please consider citing us:
-Moradi Fard, M., Thonet, T., & Gaussier, E. (2018). **[Seed-guided Deep Document Clustering](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_1)**.
+Moradi Fard, M., Thonet, T., & Gaussier, E. (2020). **[Seed-guided Deep Document Clustering](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_1)**.
 
 Feel free to contact us if you discover any bugs in the code or if you have any questions.
 
